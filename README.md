@@ -1,13 +1,1 @@
 # portfolioHUB
-
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>Exemplo de linguagem de marcação</title>
-</head>
-<body>
-    <h1>Exemplo de Página</h1>
-    <p>Este é um exemplo simples de código HTML.</p>
-</body>
-</html>
